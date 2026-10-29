@@ -1,0 +1,3 @@
+```text
+scans qr codes
+```
