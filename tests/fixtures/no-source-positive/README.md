@@ -1,0 +1,1 @@
+scans qr codes
