@@ -1,0 +1,2 @@
+class QRCodeDetector: pass
+QRCodeDetector()
